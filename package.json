@@ -2,6 +2,8 @@
   "name": "create-react-app-pages",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://viper-fe.github.io/create-react-app-pages",
+  "homepage_desc": "上面的homepage字段需要指向你的github pages地址,防止产物出现链接错误",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
